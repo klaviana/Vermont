@@ -1,4 +1,4 @@
-![alt text](https://github.com/klaviana/exocoder/blob/master/vermont.jpg "Vermont")
+![alt text](https://github.com/klaviana/Vermont/blob/master/vermont.jpg "Vermont")
 
 # Vermont
 
